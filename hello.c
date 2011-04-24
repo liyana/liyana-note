@@ -1,5 +1,5 @@
 #include <stdio.h>
-void say_hi(void;)
+void say_hi(void);
 int main(int argc, const char *argv[])
 {
     say_hi();
